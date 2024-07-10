@@ -6,7 +6,6 @@ files = os.listdir(DIRECTORY)
 images = list(filter(lambda x: x.endswith('.jpg'), files))
 
 
-
 #Создаем слайдшоу из изображений
 #image_files = ["image1.jpg", "image2.jpg", "image3.jpg"]
 clips = [ImageClip(m).set_duration(TIME_IMAGE) for m in images]

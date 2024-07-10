@@ -1,4 +1,4 @@
-DIRECTORY = "C:/Users/Penis/OneDrive/Рабочий стол/ТВОЯПАПКАСКАРТИНКАМИ"
+DIRECTORY = "C:/Users/User/shorts-generator/test_pic"
 TIME_IMAGE = 2
 FONT_SIZE = 70
 TEXT_COLOR = 'white'
