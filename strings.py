@@ -1,0 +1,1 @@
+DIRECTORY = "C:/Users/Penis/OneDrive/Рабочий стол/ТВОЯПАПКАСКАРТИНКАМИ"
